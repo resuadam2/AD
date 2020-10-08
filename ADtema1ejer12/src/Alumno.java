@@ -41,7 +41,5 @@ public class Alumno {
 	@Override
 	public String toString() {
 		return "Alumno [name=" + name + ", surname=" + surname + ", average=" + average + "]";
-	}
-	
-	
+	}	
 }
