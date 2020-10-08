@@ -1,0 +1,5 @@
+#Config File
+#Thu Oct 08 11:14:07 CEST 2020
+port=80
+url=https\://www.google.com
+secure=true
