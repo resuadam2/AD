@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Persona.xsd">
+	<nickname>example</nickname>
+	<name>Example</name>
+	<lastname>First</lastname>
+	<phone>654987321</phone>
+	<dateborn>1958-05-14</dateborn>
+	<gender>female</gender>
+	<mark>9</mark>
+</persona>
